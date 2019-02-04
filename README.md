@@ -3,3 +3,4 @@ This repository contains projects completed as a part of the Self Driving Car pr
 1. Computer Vision and Deep Learning 
 2. Sensor Fusion, Localization and Control
 3. Path Planning, Concentrations, and Systems
+Each term has lectures, quizzes and comprehensive projects to ensure percolation of technologies employed by the autonomous vehicle industry. 
